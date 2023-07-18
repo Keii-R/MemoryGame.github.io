@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(57, 57, 84);
+}
+
+#grid{
+    width: 400px;
+    height: 350px;
+    display: flex;
+    flex-wrap: wrap;
+}
